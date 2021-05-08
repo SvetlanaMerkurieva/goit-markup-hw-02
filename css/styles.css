@@ -98,6 +98,7 @@ body {
 }
 /* Кнопки */
 .button {
+    cursor: pointer;
     color: #FFFFFF;
     background-color: #2196F3;
     font-family: inherit;
@@ -114,6 +115,7 @@ body {
     background-color:  #188CE8;
 }
 .button-portfolio {
+    cursor: pointer;
     color: var(--title-text-color);
     background-color: #F5F4FA;
     font-family: inherit;
